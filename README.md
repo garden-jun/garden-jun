@@ -18,16 +18,16 @@ Here are some ideas to get you started:
 
 # Garden-Jun
 
-### Intro
-  산책을 좋아합니다.
+## Intro
+산책을 좋아합니다.
   
 <br>
-### Tech Stack
+## Tech Stack
 말하는 감자입니다
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gardenjun)](https://solved.ac/gardenjun)
 
 <br>
-### SW Certificate
+## SW Certificate
 컴퓨터공학부 재학중
 ---
