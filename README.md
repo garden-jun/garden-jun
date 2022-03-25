@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# Garden-Jun
+# 👋 Garden-Jun
 
 ## Intro
 산책을 좋아합니다.
@@ -28,4 +28,3 @@ Here are some ideas to get you started:
 
 ## SW Certificate
 컴퓨터공학부 재학중
----
