@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 ## SW Certificate
 컴퓨터공학부 재학중
 
-### 깃헙 프로필 피드백 환영입니다.
+
 
