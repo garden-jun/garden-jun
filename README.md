@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<small>[진짜프로필](https://github.com/garden-jun/garden-jun/blob/main/real-profile.md)</small>
+
 
 # 👋 Garden-Jun  
 
@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 컴퓨터공학부 재학중
 
 
-
+<small>[진짜프로필](https://github.com/garden-jun/garden-jun/blob/main/real-profile.md)</small>
