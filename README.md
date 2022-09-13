@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Garden-Jun 
-[진짜프로필](https://github.com/garden-jun/garden-jun/blob/main/real-profile.md)
+# 👋 Garden-Jun [진짜프로필](https://github.com/garden-jun/garden-jun/blob/main/real-profile.md)
 
 ## Intro
 산책을 좋아합니다.
