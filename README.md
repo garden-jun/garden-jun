@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Jeong Won Jun</h1>
 <h3 align="left">I'm a Junior majoring in ComputerScience and Statistics in South Korea.</h3>
-<h3 align="left">I hope to be a AI engneer someday.</h3>
+<h3 align="left">I hope to be a AI and Data engineer someday.</h3>
 <h3 align="left">🔭 About me</h3>
 
 - (Dec. 17th. 2018 ~ Jul. 27th. 2020) Military Service at Republic of Korea Army.
