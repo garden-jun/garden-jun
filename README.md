@@ -19,10 +19,11 @@
 - (Mar. 28th. 2022 ~ ) Undergraduate research student working under Professor Young-Joo Cho at Konkuk University.
 - (Apr. 19th. 2022 ~ ) Participating in water big data contest hosted by [K-water](https://www.kwater.or.kr/main.do?s_mid=1).
 - (Jul. 11st. 2022) Selected on the Dean's List of [Konkuk University](http://www.konkuk.ac.kr/do/Index.do), sophomore, first semester.
+- (Nov. 13rd. 2022) Get OPIC level of Intermediate High
 
 <h3 align="left">⚡ Fun fact </h3>
 
-- **I love to play League of Legends.**
+- **I love to play Badminotn League of Legends.**
 
 <h3 align="left">BOJ</h3>
 
