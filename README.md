@@ -23,7 +23,7 @@
 
 <h3 align="left">⚡ Fun fact </h3>
 
-- **I love to play Badminotn League of Legends.**
+- **I love to play Badminotn and League of Legends.**
 
 <h3 align="left">BOJ</h3>
 
