@@ -25,9 +25,11 @@
 
 - **I love to play Badminton and League of Legends.**
 
+<!-- 백준정보 주석
 <h3 align="left">BOJ</h3>
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=llkpoi)](https://solved.ac/llkpoi)
+-->
 
 <h3 align="left">GitHub Stats</h3>
 
