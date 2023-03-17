@@ -23,6 +23,11 @@
 - (Dec. 17th. 2018 ~ Jul. 27th. 2020) Military Service at Republic of Korea Army.
 
 
+<h3>More About</h3>
+Also you can check my 📃<b>CV <a href="https://github.com/garden-jun/garden-jun/files/10991574/-.pdf" target="_blank">here!</a></b>
+
+<br>
+
 <h3 align="left">⚡ Fun fact </h3>
 
 - **I love to play Badminton and League of Legends.**
@@ -41,10 +46,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garden-jun&layout=compact&theme=tokyonight)
 
-<br>
 
-<h3>More About</h3>
-Also you can check my 📃<b>CV <a href="https://github.com/garden-jun/garden-jun/files/10991574/-.pdf" target="_blank">here!</a></b>
-
-<br>
 <br>
