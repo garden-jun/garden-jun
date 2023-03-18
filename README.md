@@ -3,6 +3,7 @@
 <h3 align="left">I hope to be a AI and Data engineer someday.</h3>
 <h3 align="left">🔭 About me</h3>
 
+- (Mar. 24th. 2023) Acquired ADsP certification. (Advanced Data Analytics Semi-Professional)
 - (Jan. 10th. 2023 ~ ) Join to the bigdata club [BOAZ](https://www.bigdataboaz.com/) 20th member
 - (Nov. 13rd. 2022) Get OPIC level of Intermediate High
 - (Jul. 11st. 2022) Selected on the Dean's List of [Konkuk University](http://www.konkuk.ac.kr/do/Index.do), sophomore, first semester.
