@@ -7,7 +7,7 @@
 - (Jan. 10th. 2023 ~ ) Join to the bigdata club [BOAZ](https://www.bigdataboaz.com/) 20th member
 - (Nov. 13rd. 2022) Get OPIC level of Intermediate High
 - (Jul. 11st. 2022) Selected on the Dean's List of [Konkuk University](http://www.konkuk.ac.kr/do/Index.do), sophomore, first semester.
-- (Apr. 19th. 2022 ~ ) Participating in water big data contest hosted by [K-water](https://www.kwater.or.kr/main.do?s_mid=1).
+- (Apr. 19th. 2022 ~ Jul. 14th. 2022) Participating in water big data contest hosted by [K-water](https://www.kwater.or.kr/main.do?s_mid=1).
 - (Mar. 28th. 2022 ~ ) Undergraduate research student working under Professor Young-Joo Cho at Konkuk University.
 - (Mar. 26th. 2022 ~ Jun. 3rd. 2022) Encouragement Award in a Learng & Sharing program hosted by [Konkuk univ](http://www.konkuk.ac.kr/do/Index.do). [Anymall](https://github.com/garden-jun/Anymall)(A trading platform dedicated to animals.)
 - (Mar. 21st. 2022 ~ Apr. 3rd. 2022) Completed a machinelearning school hosted by [Dacon](https://www.dacon.io/).
