@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Jeong Won Jun </h1>
 <h3 align="left">I'm a Junior majoring in ComputerScience and Statistics in South Korea.</h3>
-<h3 align="left">I hope to be a AI and Data engineer someday.</h3>
+<h3 align="left">I hope to be an AI and Data engineer someday.</h3>
 <h3 align="left">🔭 About me</h3>
 
 - (Mar. 24th. 2023) Acquired ADsP certification. (Advanced Data Analytics Semi-Professional)
@@ -33,7 +33,7 @@ Also you can check my 📃<b>CV <a href="https://github.com/garden-jun/garden-ju
 
 <h3 align="left">⚡ Fun fact </h3>
 
-- **I love to play Badminton and League of Legends.**
+- **I love to play badminton and League of Legends.**
 
 <!-- 백준정보 주석
 <h3 align="left">BOJ</h3>
