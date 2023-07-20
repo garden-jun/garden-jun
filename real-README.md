@@ -5,6 +5,8 @@
 <h3 align="left">I hope to be an AI and Data engineer someday.</h3>
 <h3 align="left">🔭 About me</h3>
 
+- (Jun. 30th. 2023) Presented a poster with my first-authored paper at the [Korean Statistical Society conference](http://www.kss.or.kr/).
+- (May. 2nd. 2023 ~ Jun. 8th. 2023) Completed the [BOOSTCOURSE BEYOND AI BASIC COACHING STUDY : 2023] host by [NAVER Connect Foundation](https://connect.or.kr/).
 - (Mar. 24th. 2023) Acquired ADsP certification. (Advanced Data Analytics Semi-Professional)
 - (Jan. 10th. 2023 ~ ) Joined to the bigdata club [BOAZ](https://www.bigdataboaz.com/) as a 20th member
 - (Nov. 13rd. 2022) Get OPIC level of Intermediate High
