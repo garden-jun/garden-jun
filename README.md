@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi 👋, I'm Jeong Won Jun </h1> 
 <h3 align="left">I'm a Junior majoring in ComputerScience and Statistics in South Korea.</h3>
-<h3 align="left">I hope to be an AI and Data engineer someday.</h3>
+<h3 align="left">I hope to be an AI and Data engineer someday</h3>
 <h3 align="left">🔭 About me</h3>
 
 - (Jun. 30th. 2023) Presented a poster with my first-authored paper at the [Korean Statistical Society conference](http://www.kss.or.kr/).
