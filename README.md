@@ -5,6 +5,7 @@
 <h3 align="left">I hope to be an AI and Data engineer someday</h3>
 <h3 align="left">🔭 About me</h3>
 
+- (Jan. 2nd. 2024 ~ Feb. 29th. 2024) Had an internship at [VISANG](https://book.visang.com/Index.aspx)
 - (Sep. 9th. 2023) Joined to the [GDSC(Google Development Student Club)](https://gdsc.community.dev/konkuk-university/) Konkuk AI Engineer as a 1st mebmer.
 - (Jun. 30th. 2023) Presented a poster with my first-authored paper at the [Korean Statistical Society conference](http://www.kss.or.kr/).
 - (May. 2nd. 2023 ~ Jun. 8th. 2023) Completed the [BOOSTCOURSE BEYOND AI BASIC COACHING STUDY : 2023] host by [NAVER Connect Foundation](https://connect.or.kr/).
