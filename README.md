@@ -51,9 +51,11 @@ Also you can check my 📃<b>CV <a href="https://github.com/garden-jun/garden-ju
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=garden-jun&show_icons=true&theme=tokyonight)
 
+
+<!-- 사용언어 정보 주석
 <h3 align="left">Most Used Languages</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garden-jun&layout=compact&theme=tokyonight)
-
+-->
 
 <br>
