@@ -34,10 +34,12 @@
 Also you can check my 📃<b>CV <a href="https://github.com/garden-jun/garden-jun/files/10991574/-.pdf" target="_blank">here!</a></b>
 
 <br>
-
+<!-- 취미정보 주석
 <h3 align="left">⚡ Fun fact </h3>
 
 - **I love to play badminton and League of Legends.**
+-->
+
 
 <!-- 백준정보 주석
 <h3 align="left">BOJ</h3>
